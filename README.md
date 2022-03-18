@@ -4,7 +4,7 @@ This is an advanced project to save notes in Django. where users are able to Cre
 
 # Demo on Heroku
 
-https://notesdjango.herokuapp.com
+https://inmind.herokuapp.com
 
 
 # Features
@@ -39,7 +39,7 @@ https://notesdjango.herokuapp.com
 
 using the command bellow: 
 
-* git clone https://github.com/Programmer-Edilson/Notes-Django.git 
+* git clone https://github.com/edilson258/Notes-keeper-Django.git 
 
 
 
